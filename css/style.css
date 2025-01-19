@@ -227,7 +227,7 @@ transition: transform 0.2s ease-in;
   margin-right: 20px;
 }
 
-.features-main grid {
+.features-main .grid {
   padding: 30px;
 }
 
